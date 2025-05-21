@@ -26,7 +26,8 @@
 - `Name` : Woo Dong Kwan
 - `Email` : ehdrhks0509@naver.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Stats](https://github-readme-stats.vercel.app/api?username=Donkwam&show_icons=true&theme=radical)
+
 
 
 ![snake gif](https://github.com/Donkwam/Donkwam/blob/output/github-contribution-grid-snake.svg)
