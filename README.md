@@ -4,21 +4,22 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US/guild/712582211925217446">
-    <img alt="guild stats" width="47%" 
-         src="https://render.gitanimals.org/guilds/712582211925217446/draw"
-         width="600"
-         height="300" />
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Donkwam&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Donkwam"
+  width="600"
+  height="300"
+/>
+</a>
 
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BojungChoi&utm_content=farm">
-    <img alt="farm stats" width="47%" 
-         src="https://render.gitanimals.org/farms/Donkwam"
-         width="600"
-         height="300" />
-  </a>
-</p>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/712582211925217446/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 ### Profile
 - `Name` : Woo Dong Kwan
