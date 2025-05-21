@@ -24,9 +24,13 @@
 - 📫 **Email**: [ehdrhks0509@naver.com](mailto:ehdrhks0509@naver.com)
 
 ### 🏆 GitHub Stat and Languages
-![Stats](https://github-readme-stats.vercel.app/api?username=Donkwam&show_icons=true&theme=radical)
+<img alt="Donkwam's GitHub Stats" align="left"
+     height="300" width="47%" 
+     src="https://github-readme-stats.vercel.app/api?username=Donkwam&theme=radical&show_icons=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donkwam&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&v=1)
+<img alt="Top Languages" align="left"
+     height="300" width="47%" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donkwam&theme=radical&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&v=1" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Donkwam)](https://github.com/ryo-ma/github-profile-trophy)
 
