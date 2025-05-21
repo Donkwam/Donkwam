@@ -23,7 +23,33 @@
 - 👨‍💻 **Name**: Woo Dong Kwan  
 - 📫 **Email**: [ehdrhks0509@naver.com](mailto:ehdrhks0509@naver.com)
 
-### 🏆 GitHub Stat and Languages
+<!-- 기술 스택 -->
+<h2 align="left">🛠️ Tech Stack & Tools I Use</h2>
+
+<h3 align="left">👨‍💻 Programming Languages</h3>
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="40" alt="C" title="C"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" alt="C++" title="C++"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="40" alt="Python" title="Python"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="40" alt="MySQL" title="MySQL"/>
+</p>
+
+
+<h3 align="left">⚙️ Technologies & Frameworks</h3>
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/docker.png" height="40" alt="Docker" title="Docker"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" height="40" alt="Arduino" title="Arduino"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" height="40" alt="Raspberry Pi" title="Raspberry Pi"/>
+</p>
+
+
+<h3 align="left">🧰 Development Tools</h3>
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="VS Code" title="Visual Studio Code"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height="40" alt="Visual Studio" title="Visual Studio"/>
+</p>
+
+### 🏆 GitHub Stats and Languages
 <img alt="Donkwam's GitHub Stats" align="left"
      height="300" width="47%" 
      src="https://github-readme-stats.vercel.app/api?username=Donkwam&theme=radical&show_icons=true" />
