@@ -28,6 +28,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Donkwam&show_icons=true&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donkwam&layout=compact&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&v=1)
 
 ![snake gif](https://github.com/Donkwam/Donkwam/blob/output/github-contribution-grid-snake.svg)
