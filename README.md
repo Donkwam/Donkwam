@@ -4,14 +4,21 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Donkwam&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Donkwam" width="600" height="300" />
-  </a>
-  <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/guilds/712582211925217446/draw" width="600" height="300" alt="gitanimals" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Donkwam&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/Donkwam" width="300" height="150" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.gitanimals.org/">
+        <img src="https://render.gitanimals.org/guilds/712582211925217446/draw" width="300" height="150" alt="gitanimals" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ### Profile
